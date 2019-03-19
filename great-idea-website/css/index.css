@@ -127,23 +127,17 @@ body .sec1 {
 	border-top: 1px solid black;
 }
 
-.sec1 .upper-cont {
-	width: 29.25%;
+.sec1 .upper-cont .up {
+	display: inline-block;
+	width: 49.5%;
 }
 
 .middle-img {
 	width: 100%;
+	margin: 10px 0;
 }
 
-.sec1 div h3 {
-margin-top: 10px;
-}
-
-.sec1 div p {
-	display: inline-block;
-}
-
-.sec1 .lower-cont {
+.sec1 .lower-cont .down {
 	display: inline-block;
 	width: 30%;
 }
